@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "83c5852b-9b72-46ea-9978-c17e0303b5d6",
+      "name": "Mike",
+      "email": "mike@mail.com"
+    },
+    {
+      "id": "5886c4be-0e2d-400d-b7b2-97d73e233570",
+      "name": "Vas Vas",
+      "email": "vas@gmail.com"
+    },
+    {
+      "id": "8b57e69f-78dc-4bdf-9d16-81dc4b98c97a",
+      "name": "Brad Bay",
+      "email": "brad@bay.com"
+    }
+  ]
+}
